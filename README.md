@@ -1,2 +1,2 @@
 # Apresentacoes
-Apresentações gerais de membros do TAI
+Todas as apresentações gerais de membros do TAI
